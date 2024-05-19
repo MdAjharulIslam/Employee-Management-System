@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string.h>
-using namespace std;
+using namespace std
 
 string id[100], name[100], address[150], dob[100], mobile_no[100], doj[100], marstatus[100], workd[100], workl[120], ctc[100], socialins[100], email[100];
 
